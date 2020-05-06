@@ -1,0 +1,2 @@
+hello world, this is the edited text which i am about to commit now.
+git stat
